@@ -15,3 +15,17 @@ body {
     font-size: 56px;
     line-height: 64px;
   }
+  .advantages {
+    width: 510px;
+    margin: 0 auto 40px;
+    padding: 0 20px;
+  }
+  
+  .advantages-list {
+    padding: 0;
+  }
+  .container {
+    width: 510px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
