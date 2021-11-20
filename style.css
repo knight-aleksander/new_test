@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Arial", sans-serif;
+    font-size: 14px;
+    line-height: 20px;
+    color: #444444;
+  }
+  h1 {
+    width: 255px;
+    margin: 0 auto 8px;
+    font-family: "Georgia", serif;
+    text-align: center;
+    font-weight: normal;
+    font-size: 56px;
+    line-height: 64px;
+  }
+  .advantages {
+    width: 510px;
+    margin: 0 auto 40px;
+    padding: 0 20px;
+  }
+  
+  .advantages-list {
+    padding: 0;
+  }
+  .container {
+    width: 510px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
